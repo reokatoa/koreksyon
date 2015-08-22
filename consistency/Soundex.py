@@ -1,4 +1,4 @@
-g# -*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*-
 
 from abc import ABCMeta, abstractmethod
 
